@@ -1,0 +1,43 @@
+/*Coding done by Phinehas Anteh*/
+#content{
+    background-color: rgb(163, 160, 157);
+    text-align: center;
+    margin: 40px;
+    padding:20px;
+    border:5px solid black;
+    border-radius: 50px;
+    width:700px;
+    height:550px;
+    text-align: center;
+    top:50%;
+    left:50%;
+    margin-top:-225px;/*half the size of the height*/
+    margin-left:-350px;/*half the size of the width*/
+    position:absolute;
+    
+    
+    
+ 
+}
+body{
+    background-color: burlywood;
+    height:1000px;
+  
+}
+.button{
+    
+    background-color: rgb(13, 216, 13);
+    border-color: rgb(13, 216, 13);
+    color:white;
+    
+}
+label{
+    display: inline-block;
+    width: 150px;
+    margin-right: 7px;
+    text-align: center;
+}
+.accept1{
+    text-decoration: none;
+    color: green;
+}
